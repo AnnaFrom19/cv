@@ -1,0 +1,19 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "my cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaFrom19/cv.git"
+  },
+  "author": "Anna K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaFrom19/cv/issues"
+  },
+  "homepage": "https://github.com/AnnaFrom19/cv#readme"
+}

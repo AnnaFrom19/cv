@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  gap: 1rem;
+  margin: auto;
+  max-width: 1200px;
+}
+
+.photo-image {
+  border-radius: 1.5rem;
+}/*# sourceMappingURL=styles.css.map */
